@@ -1,5 +1,5 @@
 # Mario Website
-The goal of this project was to become more familiar with HTML and CSS to create a professional looking webpage from scratch. This project was successful as I am now familiar with a variety of HTML tags, as well as many of CSS statements to create a good looking webpage.
+The goal of this project was to become more familiar with HTML and CSS to create a professional looking webpage from scratch. This project was successful as I am now familiar with a variety of HTML tags, as well as many CSS statements to create a good looking webpage.
 
 ## Things I learned
 - HTML 5 Semantics
